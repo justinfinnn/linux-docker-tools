@@ -57,7 +57,7 @@ Ensure you have **Docker** and **Docker Compose** installed on your system.
 ### 2️⃣ **Clone the Repository**
 
 ```sh
-git clone https://github.com/your_username/linux-docker-apps.git
+git clone https://github.com/justinfinnn/linux-docker-tools.git
 ```
 
 Navigate into the directory
